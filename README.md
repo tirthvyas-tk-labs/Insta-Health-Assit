@@ -1,4 +1,6 @@
-# Project Based On Google Firebase
+# Android Studio Project Based On Google Firebase
+
+# Android Application
 
 # Features Include
 
