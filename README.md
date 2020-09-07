@@ -1,5 +1,15 @@
 # Project Based On Google Firebase
 
+# Features Include
+
+## App OnBoarding
+
+## Google SignIn / SignUp
+
+## Firebase Upload Portal
+
+## Animated Images for better UI 
+
 # Insta-Health-Assist
 Insta Health Assist is based on gathering and storing
 current and past health records of patient.
