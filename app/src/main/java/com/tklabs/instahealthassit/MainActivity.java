@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
           @Override
           public void onClick(View v) {
 
-              Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/tirthvyas-tk-labs/Insta-Health-Assist/blob/master/LICENSE"));
+              Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/tirthvyas-tk-labs/Insta-Health-Assit/blob/master/LICENSE"));
               startActivity(browserIntent);
 
           }
