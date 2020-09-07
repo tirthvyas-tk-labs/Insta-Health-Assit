@@ -6,9 +6,22 @@
 
 ## App OnBoarding
 
+![Capture](https://user-images.githubusercontent.com/40208647/92410279-3fa32680-f161-11ea-8d26-c4c9c21b8ef3.PNG)
+
+
 ## Google SignIn / SignUp
 
+![image](https://user-images.githubusercontent.com/40208647/92410347-70835b80-f161-11ea-9407-986b1e9db6f4.png)
+
+## Main Activity
+
+![image](https://user-images.githubusercontent.com/40208647/92410424-a4f71780-f161-11ea-80e8-1211e45437cc.png)
+
 ## Firebase Upload Portal
+
+![image](https://user-images.githubusercontent.com/40208647/92410472-cc4de480-f161-11ea-9cd0-a6f651d722d7.png)
+
+![image](https://user-images.githubusercontent.com/40208647/92410510-f2738480-f161-11ea-97a7-18cc71526aa4.png)
 
 ## Animated Images for better UI 
 
