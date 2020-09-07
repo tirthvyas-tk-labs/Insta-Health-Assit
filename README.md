@@ -1,5 +1,5 @@
 # Android Studio Project Based On Google Firebase
-
+![DIGITALIZE MEDICAL RECORDS](https://user-images.githubusercontent.com/40208647/92410021-56954900-f160-11ea-8f8c-f07e5c165f64.png)
 # Android Application
 
 # Features Include
