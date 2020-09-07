@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "927487619983",
+    "firebase_url": "https://insta-health-assit.firebaseio.com",
+    "project_id": "insta-health-assit",
+    "storage_bucket": "insta-health-assit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927487619983:android:2a43948123937687ce51fa",
+        "android_client_info": {
+          "package_name": "com.tklabs.instahealthassit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927487619983-62geajpqp9gsp593n2petmql3v3enq58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tklabs.instahealthassit",
+            "certificate_hash": "0f59daf9f56050638750f677899677b9a95ecb80"
+          }
+        },
+        {
+          "client_id": "927487619983-hiir2i4nqn2jg1gnirgoa0kb12kp994m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tklabs.instahealthassit",
+            "certificate_hash": "e485fbeaa3799cff3a3db9501d095d6cf6db6e30"
+          }
+        },
+        {
+          "client_id": "927487619983-83qf6pihu0pq46gqv972806slvfiqsnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4G0iti4XHQU96TP53JMs2bwPrqVIA8CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927487619983-83qf6pihu0pq46gqv972806slvfiqsnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
