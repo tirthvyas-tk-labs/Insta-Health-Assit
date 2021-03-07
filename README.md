@@ -1,4 +1,5 @@
 # Android Studio Project Based On Google Firebase
+
 ![DIGITALIZE MEDICAL RECORDS](https://user-images.githubusercontent.com/40208647/94335792-8b781b80-fffb-11ea-8ee2-f5834f38d60f.png)
 # Android Application
 
@@ -70,3 +71,9 @@ Copyright 2020 Tirth Vyas
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+# DOI Badge
+
+[![DOI](https://zenodo.org/badge/293579581.svg)](https://zenodo.org/badge/latestdoi/293579581)
+
+https://zenodo.org/badge/latestdoi/293579581
