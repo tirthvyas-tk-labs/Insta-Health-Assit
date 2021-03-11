@@ -74,6 +74,8 @@ Copyright 2020 Tirth Vyas
 
 # DOI Badge
 
-[![DOI](https://zenodo.org/badge/293579581.svg)](https://zenodo.org/badge/latestdoi/293579581)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4587642.svg)](https://doi.org/10.5281/zenodo.4587642)
+
+https://doi.org/10.5281/zenodo.4587642
 
 
